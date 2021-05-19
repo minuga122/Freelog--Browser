@@ -1,2 +1,0 @@
-# Freelog--Browser
-Freelog Browser
